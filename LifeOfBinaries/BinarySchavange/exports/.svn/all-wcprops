@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports
+END
+CRYPT32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/CRYPT32.dll
+END
+GDI32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/GDI32.dll
+END
+ADVAPI32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/ADVAPI32.dll
+END
+MSVCR100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/MSVCR100.dll
+END
+SHELL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/SHELL32.dll
+END
+NTDLL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/NTDLL.dll
+END
+MSVCRT.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/MSVCRT.dll
+END
+USER32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/USER32.dll
+END
+OLE32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/OLE32.dll
+END
+KERNEL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/KERNEL32.dll
+END
+SECUR32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/SECUR32.dll
+END
+IMAGEHLP.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/IMAGEHLP.dll
+END
+COMCTL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/COMCTL32.dll
+END
+MSI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/MSI.dll
+END
+SETUPAPI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/BinaryScavengerHunt/pythondemo/exports/SETUPAPI.dll
+END
